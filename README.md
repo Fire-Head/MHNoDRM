@@ -23,7 +23,7 @@ All booby traps list:
 
 **Also, it won't fix real compatibility issues like a broken fps limiter or looped audio bug in some scenes, you still need [other fixes](https://www.pcgamingwiki.com/wiki/Manhunt).**
 
-Learn more about Manhunt anti-piracy measures from [Vadim M. video](https://www.youtube.com/).
+Learn more about Manhunt anti-piracy measures from [Vadim M. video](https://www.youtube.com/watch?v=WfDg7BidsY4).
 
 
 # Instruction
