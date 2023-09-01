@@ -21,6 +21,8 @@ All booby traps list:
 
 Please note that this plugin does not affect Steam copy protection in any way, and won't let you run Manhunt without Steam client installed with a legally purchased copy of the game on your account.
 
+Also, it won't fix real compatibility issues like a broken fps limiter or looped audio bug in some scenes, you still need [other fixes](https://www.pcgamingwiki.com/wiki/Manhunt).
+
 Learn more about Manhunt anti-piracy measures from [Vadim M. video](https://www.youtube.com/).
 
 
