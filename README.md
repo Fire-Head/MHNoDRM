@@ -21,7 +21,7 @@ All booby traps list:
 
 Please note that this plugin does not affect Steam copy protection in any way, and won't let you run Manhunt without Steam client installed with a legally purchased copy of the game on your account.
 
-Learn more about Manhunt anti-piarcy measures from [Vadim M. video](https://www.youtube.com/).
+Learn more about Manhunt anti-piracy measures from [Vadim M. video](https://www.youtube.com/).
 
 
 # Instruction
